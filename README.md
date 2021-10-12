@@ -1,4 +1,5 @@
-# The [demo page](https://codesandbox.io/s/posenet-react-6rxr6) 
+# PoseNet with TypeScript & React
+[Demo page](https://codesandbox.io/s/posenet-react-6rxr6) 
 2秒ごとにカメラ撮影してPose を推論,結果を表示する
 
 ## Getting Started with Create React App
